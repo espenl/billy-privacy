@@ -41,5 +41,5 @@ Transport and at‑rest protection via Firebase. Firestore rules restrict access
 We’ll revise this page and update the Effective date.
 
 ## 10. Contact
-- Support: your-email@example.com
+- Support: espen.larsson@gmail.com
 - App: Billy (com.larsson.billy)
